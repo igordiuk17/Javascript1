@@ -1,0 +1,34 @@
+.wrap{display: block;
+    width: 100px;
+    height: 100px;
+    background: crimson;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+.collapse{display: block;
+    width: 100px;
+    height: 100px;
+    background: coral;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+
+}
+.alpha{display: block;
+    width: 100px;
+    height: 100px;
+    background: gold;
+    margin-bottom: 20px;
+
+
+}
+.beta{display: block;
+    width: 100px;
+    height: 100px;
+    background: forestgreen;
+    margin-bottom: 20px;
+
+
+}
+

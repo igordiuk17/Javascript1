@@ -1,0 +1,15 @@
+li{
+    color: orangered;
+    font-size: 3rem;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 400px;
+    height: 400px;
+    background:bisque ;
+    border:5px solid #911991;
+}

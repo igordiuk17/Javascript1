@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    width: 250px;
+    height: 200px;
+    background-color: orange;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 4px solid #8a6ca8;
+}
+p{
+    font-size: 2rem;
+    color: #911991;
+}

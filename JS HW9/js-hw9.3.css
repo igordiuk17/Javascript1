@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 200px;
+    background-color: #911991;
+    color: bisque;
+    margin-top: 20px;
+}
