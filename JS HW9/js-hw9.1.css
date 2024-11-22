@@ -4,6 +4,7 @@
     background: crimson;
     margin-bottom: 20px;
     margin-top: 20px;
+    transition: 3s;
 
 }
 .collapse{display: block;
@@ -12,6 +13,7 @@
     background: coral;
     margin-bottom: 20px;
     margin-top: 20px;
+    transition: 3s;
 
 
 }
@@ -20,6 +22,7 @@
     height: 100px;
     background: gold;
     margin-bottom: 20px;
+    transition: 3s;
 
 
 }
@@ -28,6 +31,7 @@
     height: 100px;
     background: forestgreen;
     margin-bottom: 20px;
+    transition: 3s;
 
 
 }
