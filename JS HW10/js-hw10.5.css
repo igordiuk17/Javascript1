@@ -1,0 +1,16 @@
+input{
+    height: 50px;
+    width: 100px;
+    background-color: gold;
+}
+div{
+    height: 50px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    margin-top: 30px;
+    border: 5px solid red;
+
+}
